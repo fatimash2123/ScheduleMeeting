@@ -1,0 +1,5 @@
+.scrollContainer {
+  overflow-y: auto;
+  height: 400px;
+  background-color: rgb(224, 224, 224);
+}
